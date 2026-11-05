@@ -1,0 +1,11 @@
+{
+  "name": "MarketPulse India",
+  "short_name": "MarketPulse",
+  "description": "Indian market event reminders and alerts. Information only, not investment advice.",
+  "start_url": "/home",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F6F3EC",
+  "theme_color": "#0E5C4A",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
